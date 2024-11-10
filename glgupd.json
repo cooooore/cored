@@ -1,5 +1,5 @@
 {
-    "apiUrl": "https://calacula.store/appMainGetData.php",
+    "apiUrl": "https://loginstore.one/appMainGetData.php",
     "updateConfig": {
         "updateVersiyon": "6.4.3",
         "updateTitle": "Şimdi Güncelleme Zamanı!",
